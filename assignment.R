@@ -1,4 +1,4 @@
 # Write your code here
 a <- 1
-typeof(a)
-class(a)
+cat(typeof(a), "\n")
+cat(class(a), "\n")
